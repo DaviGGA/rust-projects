@@ -7,6 +7,6 @@ Markdown repo poiting to all my rust projects
 
 ## Beginner-level
 
-### Terminal To-do list app
+### [Todo List](https://github.com/DaviGGA/rust-todo-list)
 Simple application using only the terminal with basic CRUD operations
 
