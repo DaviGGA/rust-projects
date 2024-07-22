@@ -1,5 +1,5 @@
 # Rust projects
-Markdown repo poiting to all my rust projects
+Markdown repo pointing to all my rust projects
 
 <p align="center">
   <img src="./rustacean-orig-noshadow.png" />
